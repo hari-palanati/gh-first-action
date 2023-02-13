@@ -1,2 +1,2 @@
-# github-actions-course
-GitHub Actions Course - Workflows, Jobs, Steps practice
+# github-first-action
+GitHub Actions Course - Workflows, Jobs, Steps practice - First action
