@@ -11,5 +11,5 @@ jobs:
       - name: Print goodbye
         run: |
           echo "Done - bye!"
-          echho "Second Bye"
+          echo "Second Bye"
     
